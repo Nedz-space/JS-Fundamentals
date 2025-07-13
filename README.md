@@ -1,0 +1,1 @@
+creation of cost myVar
